@@ -1,0 +1,2 @@
+Transfer:
+gsutil cp gs://pranav2/Q3.txt gs://pranav_1/

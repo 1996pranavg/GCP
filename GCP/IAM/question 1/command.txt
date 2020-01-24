@@ -1,0 +1,1 @@
+gcloud compute disks resize pranav --zone=us-central1-a --size 50

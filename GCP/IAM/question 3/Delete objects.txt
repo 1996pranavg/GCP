@@ -1,0 +1,2 @@
+Delete objects from the bucket:
+gsutil rm gs://pranav2/Q3.txt

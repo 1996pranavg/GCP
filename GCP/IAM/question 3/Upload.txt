@@ -1,0 +1,4 @@
+Upload:
+upload.py file was created in script mode, in the local host.
+gsutil cp upload.py gs://pranav2/
+gsutil ls gs://pranav2/

@@ -1,0 +1,2 @@
+Download:
+gsutil cp gs://pranav2/Q3.txt .

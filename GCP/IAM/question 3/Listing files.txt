@@ -1,0 +1,3 @@
+Lisitng objects in the file:
+gsutil ls gs://pranav2/
+gsutil ls gs://pranav_1/
