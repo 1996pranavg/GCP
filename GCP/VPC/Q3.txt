@@ -1,0 +1,17 @@
+Q) configure NAT so instance can access Internet
+
+1) Select Cloud NAT inside network services. 
+
+2) Click Get Started
+
+3) Give the gateway name
+
+4) Select VPC Network -  Specify region
+
+5) Create a cloud router - give name , network and and region to cloud router
+
+6) In NAT Mapping select ‘Primary ranges for all subnets’ (Primary Range is for Compute Engines secondary ranges is for Kubernetes)
+
+7) Nat ip address - Automatic
+
+8) Click create (Now all the private subnets in the region are connected to the internet through the NAT Gateway)
